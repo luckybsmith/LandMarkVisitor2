@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "namsan-tower-7045572_1920.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "namsan-tower-7045572_1920-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "namsan-tower-7045572_1920-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
